@@ -8,4 +8,4 @@ https://github.com/junegunn/vim-plug
 https://github.com/folke/tokyonight.nvim
 
 ## Config
-'init.vim' fil!
+'init.vim'
